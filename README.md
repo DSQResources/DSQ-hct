@@ -20,6 +20,12 @@ Who will own the rights to the reference data set? Who will be able to use it?
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-hct/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-hct/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-hct/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
